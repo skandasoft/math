@@ -1,0 +1,21 @@
+{
+  "name": "@skandasoft/math",
+  "version": "v1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SkandaSoft <skandasoftinc@gmail.com> (http://skandasoft.com/)",
+  "repository": {
+    "type": "git",
+    "url": "github.com/skandasoft/math.git"
+  },
+  "homepage": "http://www.flexbox.skandasoft.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skandasoft/math/issues",
+    "email": "admin@skandasoft.com"
+  }
+}
